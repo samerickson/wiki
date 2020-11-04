@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Main Page](README.md)
+
+## Programming Languages <a id="cpp"></a>
+
+* [C++](cpp/c++.md)
 
