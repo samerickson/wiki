@@ -4,7 +4,7 @@ description: This page contains all of my bash notes.
 
 # Bash
 
-## ⌨ Key Bindings
+## 🎹 Key Bindings
 
 Here is a list of the bash keybindings that seem the most useful to me.
 
@@ -24,7 +24,7 @@ Here is a list of the bash keybindings that seem the most useful to me.
 * Delete from cursor to beginning of a word: `Ctrl-w`
 * Delete word around cursor: `Alt-b Alt-d`
 
-### 🗣 Commands
+### 🔊 Commands
 
 * Clear screen: `Ctrl-i`
 
