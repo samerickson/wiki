@@ -2,7 +2,7 @@
 description: This page contains all of my bash notes.
 ---
 
-# Bash
+# 🎯 Bash
 
 ## 🎹 Key Bindings
 

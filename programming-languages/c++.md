@@ -2,7 +2,7 @@
 description: My personal notes on the ways you can use c++.
 ---
 
-# C++
+# 🌌 C++
 
 ## Arrays
 

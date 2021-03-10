@@ -2,10 +2,10 @@
 
 * [Main Page](README.md)
 
-## Programming Languages <a id="cpp"></a>
+## Programming Languages
 
-* [C++](cpp/c++.md)
-* [Bash](cpp/bash.md)
+* [🌌 C++](programming-languages/c++.md)
+* [🎯 Bash](programming-languages/bash.md)
 
 ## Operating Systems
 
