@@ -18,7 +18,7 @@ for(int i = 0; i < 10; i++) {
 }
 ```
 
-This next snippet acheives the same  result:
+This next snippet achieves the same  result:
 
 ```text
 int array[10] = {};
